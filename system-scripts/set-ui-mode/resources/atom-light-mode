@@ -1,0 +1,22 @@
+"*":
+  core:
+    disabledPackages: [
+      "wrap-guide"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    defaultFontSize: 15
+    softWrap: true
+    tabLength: 3
+    tabType: "soft"
+  "exception-reporting":
+    userId: "b6ee1980-5605-44a7-87e6-a2dafa9712f0"
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
