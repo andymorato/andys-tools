@@ -2,7 +2,7 @@
 
 # Removes leading numbers from the given file
 #
-# Usage: ./removeLeadingNums.py <filename>
+# Usage: ./remove_leading_nums.py <filename>
 
 # Imports
 import sys

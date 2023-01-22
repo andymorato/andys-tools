@@ -2,7 +2,7 @@
 
 # Splits file by symbol onto new lines
 #
-# Usage: ./removeLeadingNums.py <filename> <split_symbol>
+# Usage: ./split_by_symbol.py <filename> <split_symbol>
 
 # Imports
 import sys
